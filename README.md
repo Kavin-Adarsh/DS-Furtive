@@ -1,2 +1,2 @@
 # DS-Furtive
-This repository contains ineuron exercise
+Contains python programs
